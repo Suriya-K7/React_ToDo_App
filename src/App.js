@@ -4,7 +4,7 @@ import Footer from "./Footer";
 import Header from "./Header";
 import AddItems from "./AddItems";
 import SearchItems from "./SearchItems";
-import requestApi from "./requestApi"; //function exported for fetching data from api
+//import requestApi from "./requestApi"; //function exported for fetching data from api
 
 function App() {
   //let APIURL = "http://localhost:3500/items"; //incase of api request
